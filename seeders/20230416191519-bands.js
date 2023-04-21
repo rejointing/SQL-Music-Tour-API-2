@@ -15,6 +15,27 @@ module.exports = {
     available_start_time: new Date(),
     end_time: new Date()
   },
+
+  {
+    name: 'Panic! At the Disco',
+    genre: 'alternative',
+    available_start_time: new Date(),
+    end_time: new Date()
+  },
+
+  {
+    name: 'The Internet',
+    genre: 'R&B/Soul',
+    available_start_time: new Date(),
+    end_time: new Date()
+  },
+  {
+    name: 'The Weeknd',
+    genre: 'R&B/Soul',
+    available_start_time: new Date(),
+    end_time: new Date()
+  },
+  
 ]);
   },
     /**
